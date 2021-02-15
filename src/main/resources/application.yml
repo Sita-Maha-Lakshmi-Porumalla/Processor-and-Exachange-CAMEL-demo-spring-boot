@@ -11,3 +11,7 @@ spring:
   h2:
     console:
       enabled: true
+
+app:
+  source: C:/Training/input?fileName=Test_Camel.txt
+  destination: C:/Training/output/
